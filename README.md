@@ -1,15 +1,15 @@
 # Memori Django API
-Web API that implements the open source Free Spaced Repetition Scheduler (FSRS) algorithm to support learning scheduling of FSRS API.
+Web API that implements the open source Free Spaced Repetition Scheduler (FSRS) algorithm to support learning scheduling of Memori app.
 
 ## Dev Requirements
-1. Python >= 3.11
+1. Python 3.11 or above
 2. Docker
 
 ## Libraries
 1. Django REST framework
 
 ## Getting Started
-1. Set a new Django secret key in the .env file.
+1. Set a new Django secret key in the given .env file.
 ```
 SECRET_KEY = "your_secret_key_here"
 ```
